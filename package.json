@@ -1,0 +1,24 @@
+{
+  "name": "math_game",
+  "version": "0.0.1",
+  "description": "A simple game to practice arithmetic",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pablomartan/math_game.git"
+  },
+  "keywords": [
+    "maths",
+    "react",
+    "game"
+  ],
+  "author": "Pablo Martínez",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/pablomartan/math_game/issues"
+  },
+  "homepage": "https://github.com/pablomartan/math_game#readme"
+}
